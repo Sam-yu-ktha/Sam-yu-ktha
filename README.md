@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Samyuktha
 
-<!--
-**Sam-yu-ktha/Sam-yu-ktha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE Student | Passionate About Technology, Innovation, and Continuous Learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+- 🎓 3rd Year Computer Science student passionate about tech and innovation  
+- 🌐 Recently completed a Web Development internship at **SkillCraft**  
+- 💡 Focused on building core CS skills and exploring real-world applications
+
+
+## 🛠️ Skills & Tools
+
+- 💻 Familiar with: C, Java, Python (basic)
+- 🧠 Understanding of: DBMS, Data Structures & Algorithms
+- 📊 Beginner in Power BI
+- 🌐 Exposure to: HTML & CSS (via internship)
+- 🛠️ Tools: Git & GitHub
+
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samyuktha-rathinavel)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/21samyuktha) 
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/samyu_ktha)
+
 -->
